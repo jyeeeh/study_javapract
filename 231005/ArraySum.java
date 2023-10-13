@@ -1,5 +1,6 @@
 package com.mystudy.pract;
 //231005
+//배열의 행과 열의 마지막 요소에 각 열과 행의 총합을 저장하고 출력하는 프로그램
 public class ArraySum {
     public static void main(String[] args) {
         int[][]score={
