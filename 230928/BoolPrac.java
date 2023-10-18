@@ -5,7 +5,7 @@ public class Exercise3_9 {
 
     public static void main(String[] args) {
         char ch='z';
-        boolean b = ('a'<=ch && ch <= 'z') || ('A'<=ch && ch <= 'z') || ('0'<=ch && ch <='9'); //대문자, 소문자, 숫자일 때 구별
+        boolean b = ('a'<=ch && ch <= 'z') || ('A'<=ch && ch <= 'z') || ('0'<=ch && ch <='9'); //소문자, 대문자, 숫자일 때 구별
 
         System.out.println(b);
     }
