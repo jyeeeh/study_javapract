@@ -6,14 +6,14 @@
 -(Java의 정석 200제|남궁성)을 통하여 자바 문제 연습
 
 ## Stacks
-# Environment
+### Environment
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GITa&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"> 
 
 <br><br>
-# Development
+### Development
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
