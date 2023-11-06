@@ -8,13 +8,13 @@
 ## Stacks
 -Environment
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=GITa&logoColor=white">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=GITHUB&logoColor=white"> 
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GITa&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"> 
 
-  
+<br>
 -Development
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
 
